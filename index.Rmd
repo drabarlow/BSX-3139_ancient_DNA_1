@@ -13,10 +13,6 @@ logo        : LA_Full_colour_reversed.svg
 biglogo     : A1_FullColour.svg
 assets      : {assets: ../../assets}
 license     : by-nc-sa
-github:
-  user: drabarlow
-  repo: BSX-3139_ancient_DNA_1
-  branch: "gh-pages"
 ---
 
 ```{r setup, include = FALSE}
